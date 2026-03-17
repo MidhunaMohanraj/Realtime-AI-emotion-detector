@@ -15,7 +15,7 @@ EMOTION_COLORS = {
     "disgust":   (0,   160,  60),
     "neutral":   (160, 160, 160),
 }
-
+  
 EMOJI_MAP = {
     "happy":    "😄",
     "sad":      "😢",
